@@ -1,0 +1,11 @@
+https://www.toptal.com/developers/gitignore/
+windows,eclipse,java로 .gitignore 모든파일 형태로 만들기
+
+.gitignore 파일을 먼저 올리기
+나머지 올리기
+
+이클립스
+Ctrl + Alt + 방향키 : 위, 아랫줄 복사
+Ctrl + Space : 내용 확인 (예 : sysout 후 확인 )
+Ctrl + D : 한 줄 지우기
+커서 두고 Alt + 방향키 : 코드 위치 변경
