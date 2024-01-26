@@ -12,7 +12,6 @@ public class MainClass {
     
     
    MyFileUtils.fileCopy(src, dest);
-  // MyFileUtils.fileMove(src, dest);
     
     
   }
