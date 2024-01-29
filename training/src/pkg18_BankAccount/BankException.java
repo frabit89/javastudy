@@ -1,6 +1,6 @@
 package pkg18_BankAccount;
 
-public class BankException {
+public class BankException extends Exception {
   
   private int errorCode;
 
