@@ -43,11 +43,11 @@ public class MainClass {
       
       ps = con.prepareStatement(sql);
       
-      Scanner sc = new SaslException(System.in);
+      Scanner sc = new Scanner(System.in);
       System.out.println("내용 입력하세요>>>");
       String talkContent = sc.next();
       System.out.println("");
-      String 
+      String talkUser = sc.next();
       
       ps.executeUpdate();
       
