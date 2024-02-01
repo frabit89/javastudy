@@ -1,7 +1,7 @@
 package practice03_Bus;
 
 public class Person {
-
+  
   // field
   private String name;
   
